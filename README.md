@@ -1,2 +1,4 @@
 # Converting-pages-to-HTML
-In this repository will be all didactic handouts (PDF) converted to HTML / CSS. Using Bulma.io framework
+Neste repositório estará todas as apostilas didáticas (PDF) convertidas em HTML/CSS. Utilizando framework Bulma.io
+
+Deixarei em cada sessão, uma pasta para sua respectiva matéria.
